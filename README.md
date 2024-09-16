@@ -24,5 +24,7 @@ To run this project, you need to have Python installed along with the required l
 You can install these dependencies using `pip`:
 
 ```bash
-pip install requests beautifulsoup4 pandas openpyxl
-
+pip install requests   
+pip install beautifulsoup4
+pip install pandas
+pip install openpyxl 
